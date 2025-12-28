@@ -1,0 +1,17 @@
+node_modules
+.next
+pnpm-lock.yaml
+
+# Build / output
+out
+dist
+
+# Logs
+*.log
+
+# Env
+.env
+.env.local
+.env.development
+.env.production
+.env.test
